@@ -1,0 +1,57 @@
+Comandos basicos de git
+1) git status ---> verifican la diferencia entre su local y el servidor
+
+servidor --> tiene un archivo menos --- o tiene archivos modificados
+
+2) git commit -m "mensaje"  ---> enter 
+2.1) git push origin <Branch> ---- git push <localhost> <servidor-rama>
+ej -> rama master / rama develop --- rama release01 ----> git push origin master / git push origin develop  /  git push origin release01
+
+persisten el codigo en el servidor
+
+
+persona 1 ----> persona 2 ---> quiere recuperarlos --->
+
+3) recuperar los datos ---> git pull origin master o develop --- ramara x 
+
+git pull origin master
+
+
+  NO VAMOS A PODER SUBIR CODIGO QUE ESTE DESACTUALIZADO CON LA RAMA QUE ESTE EN EL SERVIDOR!!!!
+
+
+servidor 1.2 
+
+
+trabajo 1.1 
+
+       push origin master ---> conflicto !!!---->     obligado a hacer el git pull origin master <----  1.1 - 1.2 ----> conflict!!! -> 
+
+git add --> archivos modicados
+
+git commit -m " mensaje"
+
+git push origin master -> rama que sea  
+
+
+
+----
+Crear una nueva rama desde la consola
+
+Git checkout -b NOMBRE_DE_LA_RAMA
+
+Eje git checkout -b develop
+
+
+Git branch ---> develop ---> master
+
+Git checkout --> para moverse entre ramas ej git checkout develop ---> para ir a develop 
+git checkout master ---> para ir a master
+
+
+-----
+
+Transferir todo lo modificado
+
+Git add -A   / git add --all 
+
