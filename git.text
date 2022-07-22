@@ -54,4 +54,8 @@ git checkout master ---> para ir a master
 Transferir todo lo modificado
 
 Git add -A   / git add --all 
+Git commit -m "muy declarativo " 
+
+Git commit ---> enter
+
 
