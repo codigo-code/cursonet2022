@@ -1,0 +1,14 @@
+﻿@model Persona
+
+
+<h1>Datos de la persona</h1>
+
+
+
+<a asp-controller="Persona" asp-action="modificar">Modificar datos personales</a>
+
+<form asp-controller="Persona" asp-action="modificar" method="post">
+
+    <input asp-for="@Model.nombre" placeholder="nombre" />
+    <input type="submit" value="enviar" />
+</form>
