@@ -1,0 +1,14 @@
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/bin/Debug/netcoreapp3.1/clase1_consola
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/bin/Debug/netcoreapp3.1/clase1_consola.deps.json
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/bin/Debug/netcoreapp3.1/clase1_consola.runtimeconfig.json
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/bin/Debug/netcoreapp3.1/clase1_consola.runtimeconfig.dev.json
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/bin/Debug/netcoreapp3.1/clase1_consola.dll
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/bin/Debug/netcoreapp3.1/clase1_consola.pdb
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.csproj.AssemblyReference.cache
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.AssemblyInfoInputs.cache
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.AssemblyInfo.cs
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.csproj.CoreCompileInputs.cache
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.dll
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.pdb
+/Users/ricksanchez/dev/cursoutnnet/clase1_consola/clase1_consola/obj/Debug/netcoreapp3.1/clase1_consola.genruntimeconfig.cache
