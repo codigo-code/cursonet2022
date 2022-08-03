@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{3C1CF042-A6EA-4A5F-BB96-D7CC377D6CD6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clase1/Views/User/Index.cshtml">
+    <Files>
+      <File FileName="Clase1/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Clase1/appsettings.json" Line="8" Column="16" />
+      <File FileName="Clase1/Program.cs" Line="25" Column="31" />
+      <File FileName="Clase1/Controllers/HomeController.cs" Line="16" Column="25" />
+      <File FileName="Clase1/Views/Shared/_Layout.cshtml" Line="23" Column="12" />
+      <File FileName="Clase1/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="Clase1/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="Clase1/Models/ErrorViewModel.cs" Line="5" Column="29" />
+      <File FileName="Clase1/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Clase1/Views/Shared/Error.cshtml" Line="12" Column="60" />
+      <File FileName="Clase1/Models/USer.cs" Line="8" Column="6" />
+      <File FileName="Clase1/Controllers/UserController.cs" Line="22" Column="21" />
+      <File FileName="Clase1/Views/User/Index.cshtml" Line="7" Column="72" />
+      <File FileName="Clase1/Views/User/validar.cshtml" Line="6" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Clase1" expanded="True">
+            <Node name="Clase1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Clase1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
