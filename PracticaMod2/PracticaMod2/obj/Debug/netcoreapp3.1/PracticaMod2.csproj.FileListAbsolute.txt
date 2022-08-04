@@ -1,0 +1,14 @@
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/bin/Debug/netcoreapp3.1/PracticaMod2
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/bin/Debug/netcoreapp3.1/PracticaMod2.deps.json
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/bin/Debug/netcoreapp3.1/PracticaMod2.runtimeconfig.json
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/bin/Debug/netcoreapp3.1/PracticaMod2.runtimeconfig.dev.json
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/bin/Debug/netcoreapp3.1/PracticaMod2.dll
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/bin/Debug/netcoreapp3.1/PracticaMod2.pdb
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.csproj.AssemblyReference.cache
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.AssemblyInfoInputs.cache
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.AssemblyInfo.cs
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.csproj.CoreCompileInputs.cache
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.dll
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.pdb
+/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/obj/Debug/netcoreapp3.1/PracticaMod2.genruntimeconfig.cache
