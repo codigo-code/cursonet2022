@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="model\" />
+    <None Remove="view\" />
+    <None Remove="controler\" />
+    <None Remove="model\clients\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="model\" />
+    <Folder Include="view\" />
+    <Folder Include="controler\" />
+    <Folder Include="model\clients\" />
+  </ItemGroup>
+</Project>

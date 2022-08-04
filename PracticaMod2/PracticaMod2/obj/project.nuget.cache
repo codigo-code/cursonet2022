@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUlJ6ScfbnYb8mbInYFmP31MEooYFSS4jt5k+AIu50YhkGYbvXGm4QV3QhXPK/2RKKydiVAwzMXy7sdQjWUQTA==",
+  "success": true,
+  "projectFilePath": "/Users/ricksanchez/Projects/PracticaMod2/PracticaMod2/PracticaMod2.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricksanchez/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/ricksanchez/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/ricksanchez/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
